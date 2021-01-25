@@ -42,7 +42,7 @@ Aplicaremos un ejemplo:
 
 ## Ejecutando las pruebas ⚙️
 
-En la carpeta de test se dispone un caso de uso que verifica que los movimientos y giros que se determinan desde un inicio al Dron, sean los correctos. Por otro lado, otro caso de uso verifica que el movimiento del dron respete el perimetro determinado.
+En la carpeta de test se dispone un caso de uso que verifica que los movimientos y giros que se determinan desde un inicio al Dron, sean los correctos. Por otro lado, otro caso de uso verifica que el movimiento del Dron respete el perimetro determinado.
 
 Más tests a determinar..
 
