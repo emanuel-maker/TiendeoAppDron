@@ -53,7 +53,7 @@ export default class DronesController {
          
         this.dronList.forEach(dron => {
             [...dron.nextMovement].forEach(mov => {
-                (mov == 'r' || mov == 'l') ? 
+                (mov != 'm') ? 
                 this.changeDronDirection(mov,dron) : 
                 this.changeDronPosition(dron);
             })
